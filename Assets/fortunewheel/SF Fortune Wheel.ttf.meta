@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: efd0006bfea27c9478b6cf2fb4053e90
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Fortune Wheel
+  fontNames:
+  - SF Fortune Wheel
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5cb35652fdc985346be7b8e70eb5b70a, type: 3}
+  - {fileID: 12800000, guid: f6b00a629cb19ba40b6277256fece819, type: 3}
+  - {fileID: 12800000, guid: 43a1705564df17d4899a8c1d4192a243, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
